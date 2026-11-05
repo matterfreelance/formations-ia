@@ -1,5 +1,4 @@
-# Kit Questionnaire — Maturité IA des dirigeants (version express)
-
+# Kit Questionnaire — Maturité IA des dirigeants
 > Jour 1 — Matin
 > Durée : 5 à 10 minutes · Réponses confidentielles, elles restent dans votre conversation.
 
