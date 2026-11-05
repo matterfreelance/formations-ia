@@ -1,6 +1,6 @@
 # Kit QCM — Validation des acquis (10 questions · ~5 minutes)
 
-> Fin du Jour 2
+> Fin du Jour 2 - 
 > Validation des connaissances : aucune note n'est conservée, personne d'autre que vous ne voit vos réponses.
 
 ## Pour le stagiaire — mode d'emploi
