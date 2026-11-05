@@ -1,7 +1,7 @@
 # Kit QCM — Validation des acquis (10 questions · ~5 minutes)
 
-> Formation « Les enjeux de l'IA pour les dirigeants » · Fin du Jour 2
-> Validation des connaissances, sans stress : aucune note n'est conservée, personne d'autre que vous ne voit vos réponses.
+> Fin du Jour 2
+> Validation des connaissances : aucune note n'est conservée, personne d'autre que vous ne voit vos réponses.
 
 ## Pour le stagiaire — mode d'emploi
 
