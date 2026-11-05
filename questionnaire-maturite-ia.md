@@ -1,6 +1,6 @@
 # Kit Questionnaire — Maturité IA des dirigeants (version express)
 
-> Formation « Les enjeux de l'IA pour les dirigeants » · Jour 1 — Matin
+> Jour 1 — Matin
 > Durée : 5 à 10 minutes · Réponses confidentielles, elles restent dans votre conversation.
 
 ## Pour le dirigeant — mode d'emploi
