@@ -26,7 +26,7 @@ Rien à installer : un navigateur et un accès à un assistant IA suffisent.
 
 ## Bon à savoir
 
-- Ces kits accompagnent la formation « Les enjeux de l'IA pour les dirigeants » (1,5 jour, en distanciel).
+- Ces kits accompagnent la formation dédiée.
 - Le questionnaire papier de votre cahier d'exercices reste utilisable à tout moment : ces kits en sont la version conversationnelle, pas un remplacement.
 - Un score de maturité n'est ni une note ni un jugement : c'est un état des lieux qui sert de point de départ à votre feuille de route.
 
